@@ -43,11 +43,6 @@ $from = "info@mizukicreative.website";
 //フォームのメールアドレス入力箇所のname属性の値（name="○○"　の○○部分）
 $Email = "メールアドレス";
 //---------------------------　必須設定　ここまで　------------------------------------
-$to = "info@mizukicreative.website";
-$subject = "TEST";
-$message = "This is TEST.\r\nHow are you?";
-$headers = "info@mizukicreative.website";
-mb_send_mail($to, $subject, $message, $headers); 
 
 //---------------------------　セキュリティ、スパム防止のための設定　------------------------------------
 
