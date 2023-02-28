@@ -126,9 +126,9 @@ $mailSignature = <<< FOOTER
 
 ──────────────────────
 MizukiCreative.website（個人事業主）
-〒150-XXXX 東京都○○区○○ 　○○ビル○F　
-TEL：03- XXXX - XXXX 　FAX：03- XXXX - XXXX
-携帯：090- XXXX - XXXX 　
+〒150-XXXX 東京都○○区○○ ○○ビル○F
+TEL:03- XXXX - XXXX FAX:03- XXXX - XXXX
+携帯:090- XXXX - XXXX
 E-mail:xxxx@xxxx.com
 ──────────────────────
 
